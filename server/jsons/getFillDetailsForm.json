@@ -1,0 +1,226 @@
+{
+    "status": "success",
+    "data": {
+        "basicDetails": {
+            "id": "basicDetails",
+            "label": "Basic Details",
+            "fields": [{
+                    "id": "fullName",
+                    "label": "Your Full Name",
+                    "type": "text",
+                    "required": true,
+                    "regex": "^[a-zA-Z\\s]{3,}$"
+                },
+                {
+                    "id": "age",
+                    "label": "Your Age",
+                    "type": "number",
+                    "required": true,
+                    "range": "1-150"
+                },
+                {
+                    "id": "familyCount",
+                    "label": "Members in your Family",
+                    "type": "number",
+                    "required": true,
+                    "range": "1-50"
+                },
+                {
+                    "id": "mobileNumber",
+                    "label": "Your mobile number",
+                    "type": "number",
+                    "required": true
+                },
+                {
+                    "id": "gender",
+                    "label": "Your Gender",
+                    "type": "radio",
+                    "required": true,
+                    "values": [{
+                            "id": "male",
+                            "label": "Male"
+                        },
+                        {
+                            "id": "female",
+                            "label": "Female"
+                        },
+                        {
+                            "id": "other",
+                            "label": "Others"
+                        }
+                    ]
+                },
+                {
+                    "id": "state-option",
+                    "label": "You are living in which State",
+                    "type": "state-option",
+                    "required": true,
+                    "optionType": "state"
+                },
+                {
+                    "id": "district-option",
+                    "label": "You are living in which District",
+                    "type": "district-option",
+                    "required": true,
+                    "optionType": "district"
+                }
+            ]
+        },
+        "medicalDetails": {
+            "id": "medicalDetails",
+            "label": "Medical Details",
+            "fields": [{
+                    "id": "temprature",
+                    "label": "Select your temprature",
+                    "type": "option",
+                    "options": [
+                        "Cold (94F - 98F)",
+                        "Normal (98F - 101F)",
+                        "Mild Fever (101F-103F)",
+                        "Severe Fever (103F-107F)"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "cough",
+                    "label": "Select your Cough Type",
+                    "type": "option",
+                    "options": [
+                        "No Cough",
+                        "Dry Cough",
+                        "Viral Cough",
+                        "Cough with mucus",
+                        "Severe Cough & Chest Pain"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "tiredness",
+                    "label": "Are you feeling tiredness?",
+                    "type": "option",
+                    "options": [
+                        "NO",
+                        "Yes, Sometimes",
+                        "Yes, regularly"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "breathing",
+                    "label": "Diffculty in breathing?",
+                    "type": "option",
+                    "options": [
+                        "NO",
+                        "Sometimes",
+                        "Very Often"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "taste",
+                    "label": "Have you felt loss in taste?",
+                    "type": "option",
+                    "options": [
+                        "NO",
+                        "Few times",
+                        "Everytime"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "smell",
+                    "label": "Have you felt loss in smell?",
+                    "type": "option",
+                    "options": [
+                        "NO",
+                        "Few times",
+                        "Everytime"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "smell",
+                    "label": "Have you symptoms progressed in 48 hrs?",
+                    "type": "option",
+                    "options": [
+                        "Imporved",
+                        "No Change",
+                        "Worsened",
+                        "Worsened considerably"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "asthma",
+                    "label": "Do you have asthma?",
+                    "type": "option",
+                    "options": [
+                        "NO",
+                        "Earlier, But Cured",
+                        "YES"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "sugar",
+                    "label": "Do you have sugar or diabetes?",
+                    "type": "option",
+                    "options": [
+                        "NO",
+                        "Earlier, But Cured",
+                        "YES"
+                    ],
+                    "required": true
+                }
+            ]
+        },
+        "travelDetails": {
+            "id": "travelDetails",
+            "label": "Recent Travel Details (Upto 3 weeks)",
+            "fields": [{
+                    "id": "interState",
+                    "label": "Have you traved from one state to another?",
+                    "type": "option",
+                    "options": [
+                        "No",
+                        "Yes, I have traveled to another state recently."
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "targetState",
+                    "label": "If Yes, Which state you came from?",
+                    "type": "text",
+                    "required": false
+                },
+                {
+                    "id": "abroad",
+                    "label": "You were in another country recently?",
+                    "type": "option",
+                    "options": [
+                        "No",
+                        "Yes, I was in another country recently."
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "targetCountry",
+                    "label": "If Yes, Which country you came from?",
+                    "type": "text",
+                    "required": false
+                },
+                {
+                    "id": "inDangerousContact",
+                    "label": "Please select your exposure details.",
+                    "type": "option",
+                    "options": [
+                        "No exposure with anyone with symptoms.",
+                        "History of meeting people in affected areas.",
+                        "Close contact with confirmed COVID-19 patient."
+                    ],
+                    "required": true
+                }
+            ]
+        }
+    }
+}

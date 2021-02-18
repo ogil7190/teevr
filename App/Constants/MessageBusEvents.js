@@ -1,0 +1,34 @@
+export const OVERLAY_EVENTS = {
+    OVERLAY_HIDE_EVENT: 'MB:OVERLAY_EVENT:HIDE',
+    OVERLAY_SHOW_EVENT: 'MB:OVERLAY_EVENT:SHOW',
+}
+
+export const BOTTOM_SHEET_EVENTS = {
+    BOTTOM_SHEET_HIDE_EVENT: 'MB:BOTTOM_SHEET_EVENT:HIDE',
+    BOTTOM_SHEET_SHOW_EVENT: 'MB:BOTTOM_SHEET_EVENT:SHOW'
+}
+
+export const POPUP_EVENTS = {
+    OPEN_POPUP : 'MB:POPUP_EVENT:OPEN',
+    CLOSE_POPUP : 'MB:POPUP_EVENT:CLOSE'
+}
+
+export const HEADER_EVENTS = {
+    TOGGLE_HEADER: 'MB:HEADER_EVENT:TOGGLE_HEADER',
+    TOGGLE_BACK_HANDLER: 'MB:HEADER_EVENT:TOGGLE_BACK_HANDLER'
+}
+
+export const LOCAL_STORAGE_FETCHER_EVENT_ON_ITEM_SELECT = "MB:localStorageFetcher:event:onItemSelect";
+export const NOTIFY_SCREEN_PANEL_EVENT_ON_ITEM_SELECT = "MB:notifyScreenPanel:event:onItemSelect";
+export const NOTIFY_CLEAR_SELECTION = "MB:notify:clearSelection";
+export const SELECTION_SCREEN_TOGGLE_CUSTOM_SECTION = "MB:selectionScreen:event:toggleCustomSelection";
+export const SELECTION_SCREEN_WAIT_BACK_PRESSED = "MB:selectionScreen:event:waitBackPressed";
+export const SELECTION_SCREEN_WAIT_BACK_PRESSED_BACKED = "MB:selectionScreen:event:waitBackPressedBack";
+export const SELECTION_SCREEN_CHANGE_TITLE = "MB:selectionScreen:event:changeTitle";
+
+export const ON_QR_CODE_SCAN_RESPONSE = "MB:ON_QR_CODE_SCAN_RESPONSE"
+
+export const ON_ADD_FILES_TO_SEND = "MB:ON_ADD_FILES_TO_SEND";
+export const ON_REMOVE_FILES_TO_SEND = "MB:ON_REMOVE_FILES_TO_SEND";
+
+export const ON_TRANSFER_STEP_DONE = "MB:ON_TRANSFER_STEP_DONE";

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fatafat.iml" filepath="$PROJECT_DIR$/Fatafat.iml" group="Fatafat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1371203920/Fatafat-lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/1371203920/Fatafat-lottie-react-native.iml" group="Fatafat/lottie-react-native" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-660500299/Fatafat-react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-660500299/Fatafat-react-native-camera.iml" group="Fatafat/react-native-camera" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1143471548/Fatafat-react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/1143471548/Fatafat-react-native-code-push.iml" group="Fatafat/react-native-code-push" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1361262915/Fatafat-react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/-1361262915/Fatafat-react-native-community_art.iml" group="Fatafat/react-native-community_art" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2010075396/Fatafat-react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/2010075396/Fatafat-react-native-community_async-storage.iml" group="Fatafat/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1576722175/Fatafat-react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1576722175/Fatafat-react-native-community_masked-view.iml" group="Fatafat/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-702907659/Fatafat-react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-702907659/Fatafat-react-native-device-info.iml" group="Fatafat/react-native-device-info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1122156230/Fatafat-react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1122156230/Fatafat-react-native-fast-image.iml" group="Fatafat/react-native-fast-image" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-442578339/Fatafat-react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/-442578339/Fatafat-react-native-fs.iml" group="Fatafat/react-native-fs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-421309706/Fatafat-react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-421309706/Fatafat-react-native-gesture-handler.iml" group="Fatafat/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/198641416/Fatafat-react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/198641416/Fatafat-react-native-linear-gradient.iml" group="Fatafat/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-216902988/Fatafat-react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-216902988/Fatafat-react-native-permissions.iml" group="Fatafat/react-native-permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-500333089/Fatafat-react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-500333089/Fatafat-react-native-safe-area-context.iml" group="Fatafat/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1770135369/Fatafat-react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1770135369/Fatafat-react-native-screens.iml" group="Fatafat/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1068692332/Fatafat-react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1068692332/Fatafat-react-native-svg.iml" group="Fatafat/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Fatafat/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/487246182/com.swmansion.reanimated-react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/487246182/com.swmansion.reanimated-react-native-reanimated.iml" group="Fatafat/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/lottie-react-native/src/android/lottie-react-native.iml" filepath="$PROJECT_DIR$/../node_modules/lottie-react-native/src/android/lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-code-push/android/app/react-native-code-push.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/art/android/react-native-community_art.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/art/android/react-native-community_art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/masked-view/android/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/masked-view/android/react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fs/android/react-native-fs.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fs/android/react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-permissions/android/react-native-permissions.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-permissions/android/react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-screens/android/react-native-screens.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-screens/android/react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,58 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "App/*": [
+                "App/*"
+            ],
+            "Assets/*": [
+                "App/Assets/*"
+            ],
+            "Screens/*": [
+                "App/Screens/*"
+            ],
+            "Components/*": [
+                "App/Components/*"
+            ],
+            "HOCs/*": [
+                "App/HOCs/*"
+            ],
+            "Containers/*": [
+                "App/Containers/*"
+            ],
+            "Constants/*": [
+                "App/Constants/*"
+            ],
+            "Navigators/*": [
+                "App/Navigators/*"
+            ],
+            "Sagas/*": [
+                "App/Sagas/*"
+            ],
+            "Services/*": [
+                "App/Services/*"
+            ],
+            "Models/*": [
+                "App/Models/*"
+            ],
+            "Modules/*": [
+                "App/Modules/*"
+            ],
+            "Utils/*": [
+                "App/Utils/*"
+            ],
+            "Views/*": [
+                "App/Views/*"
+            ],
+            "Theme/*": [
+                "App/Theme/*"
+            ],
+            "Stores/*": [
+                "App/Stores/*"
+            ],
+        },
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react"
+    }
+}
